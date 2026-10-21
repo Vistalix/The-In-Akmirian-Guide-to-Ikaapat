@@ -1,0 +1,1 @@
+Ice Mephits are an evil and crafty elemental race that, personality-wise, seldom appear different from the worst of the feyfolk. They pose as large icicles to ambush unsuspecting travelers, made easy due to their blue skin and mere 4-foot tall stature. 
