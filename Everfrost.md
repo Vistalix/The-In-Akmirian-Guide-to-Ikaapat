@@ -13,3 +13,11 @@ Everfrost accumulates in 5 stages:
 *[[Frostgnaw]]:* [[Frostgnaw]] is where Everfrost and [[Frostbite]] significantly diverge. Consider this stage what [[Frostbite]] wishes it could be.
 
 *[[Syphoglacia]]*: If you reach this stage, it most probably is too late. Even those who recover from [[Syphoglacia]] are reported to have significantly shortened life expectancies, are more prone to injury, and take longer to recover from ailments.
+
+There are three locations in [[In-Akmir]] where the Everfrost does not permeate:
+
+[[The Garden of In-Akmir]], due to an enchantment placed by an expert sorcerer.
+
+The [[Akmir Wastes]], for a reason not yet understood by researchers.
+
+[[The Sanctuary]], a fantastical location from folktales.
