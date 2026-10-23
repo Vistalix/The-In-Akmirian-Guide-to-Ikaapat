@@ -13,6 +13,7 @@ Heading south from Midden, travelers will come across [[Lake Rise]], the city's 
 | [[Midden Church of the Original Order]] | Midden's church dedicated to the [[Original Order]], found west of [[The Garden of In-Akmir]].                                                                                                                                                                                                         |
 |          [[Midden City Hall]]           | The all-in-one lawkeeping location of Midden. It lies east of [[Midden Square]].                                                                                                                                                                                                                       |
 |          [[Lamplight Bazaar]]           | The location that is the frontier of the typical Midden resident's day. It's named after the view observers get at night, when all the lamps are lit to ensure those caught in snowstorms can find their way to shelter.                                                                               |
+|            [[Midden Forest]]            | A vast, snow-covered forest found directly north of the city.                                                                                                                                                                                                                                          |
 
 # Subpoints of Interest
 
@@ -37,4 +38,4 @@ Heading south from Midden, travelers will come across [[Lake Rise]], the city's 
 ---
 **Lamplight Bazaar**
 [[Midden General Goods]]
-[[New Hearth Remedies]]
+[[New Hearth Remedies]]****
