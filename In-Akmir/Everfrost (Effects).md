@@ -23,4 +23,4 @@ When [[Frostgnaw]] sets in, know you are one step away from truly permanent dama
 
 *[[Syphoglacia]]*:
 
-[[Syphoglacia]] is the stage at which [[Everfrost]]'s effects become entirely irreversable. It syphons the very life from whoever was afflicted by it, degrading their very being. Knowledge of this stage is little known, because studies on it were deemed "too unethical, even for those on death row." To my own knowledge from word of mouth, it is most akin to having your body atrophy at a speed that makes it feel as though you were becoming a fossil live.
+[[Syphoglacia]] is the stage at which [[Everfrost]]'s effects become entirely irreversable. It syphons the very life from whoever was afflicted by it, degrading their very being. Knowledge of this stage is little known, because studies on it were deemed "too unethical, even for those on death row." To my own knowledge from word of mouth, it is most akin to having your body atrophy at a speed that makes it feel as though you were becoming a fossil alive.
